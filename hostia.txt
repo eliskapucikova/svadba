@@ -1,2 +1,3 @@
 "Zoznam host¡:" 
 "Svedok Peter" 
+"Syn svedkov Janko" 
