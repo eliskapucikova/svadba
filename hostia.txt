@@ -1,1 +1,2 @@
 "Zoznam host¡:" 
+"Svedok Peter" 
